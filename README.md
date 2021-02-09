@@ -13,6 +13,8 @@ Creates a latex file for each student in the marking directory based off of a us
   
 **Usage**
 
+> :warning: **Make backups of your marking before any scripts**
+
 Edit the template in ```template/``` directory to match required specifications.
 
 Get a list of students from the files in the dir (creates csv file of names) - ```python(3) merger.py 2```
