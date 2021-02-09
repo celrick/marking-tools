@@ -13,7 +13,7 @@ Creates a latex file for each student in the marking directory based off of a us
   
 **Usage**
 
-> :warning: **Make backups of your marking before any scripts**
+> :warning: **Make backups of your marking before using any scripts**
 
 Edit the template in ```template/``` directory to match required specifications.
 
